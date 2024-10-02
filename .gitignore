@@ -478,3 +478,5 @@ dist
 ### Manually added
 
 !iac/lib
+.cspellcache
+tsc-cache
